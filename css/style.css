@@ -1,0 +1,20 @@
+.inputOne{
+    border-radius: 20px;
+    border:  2px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 35px;
+    text-align: center;
+}
+.inputTwo{
+    border-radius: 20px;
+    border:  2px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 35px;
+    text-align: center;
+}
+.plus{
+   width: 30px;
+   height: 30px;
+   background-color: coral;
+   
+}
